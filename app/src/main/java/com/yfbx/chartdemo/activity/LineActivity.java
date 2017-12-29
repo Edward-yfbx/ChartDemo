@@ -17,8 +17,6 @@ public class LineActivity extends Activity {
     LineChart mChart;
     BarChart barChart;
 
-    private String[] xText = {"12/20", "12/21", "12/22", "12/23", "12/24", "12/25", "12/26"};
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
