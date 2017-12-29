@@ -7,3 +7,4 @@
 ![](https://github.com/Edward-yfbx/ChartDemo/blob/master/screenshot/bar_chart.png)
 
 ![](https://github.com/Edward-yfbx/ChartDemo/blob/master/screenshot/pie_chart.png)
+
