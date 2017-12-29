@@ -251,7 +251,7 @@ public class BarChart extends View {
      * 文字尺寸
      */
     public void setTextSize(float textSize) {
-        this.textSize = SizeTranslator.sp2px(context, textSize);
+        this.textSize = sp2px(textSize);
     }
 
     /**

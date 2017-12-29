@@ -230,7 +230,7 @@ public class PieChart extends View {
      */
     public void setChartTitle(String title, float titleSize, int titleColor) {
         this.title = title;
-        this.titleSize = SizeTranslator.sp2px(context, titleSize);
+        this.titleSize = sp2px(titleSize);
         this.titleColor = titleColor;
     }
 
@@ -245,7 +245,7 @@ public class PieChart extends View {
      * 圆弧宽度
      */
     public void setArcWidth(float arcWidth) {
-        this.arcWidth = SizeTranslator.dp2px(context, arcWidth);
+        this.arcWidth = dp2px(arcWidth);
     }
 
     /**
